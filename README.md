@@ -1,2 +1,2 @@
-# Intrestinggame
+# challenges
 practice...
