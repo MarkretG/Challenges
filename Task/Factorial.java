@@ -1,4 +1,4 @@
-package Task;
+package Task.Task;
 
 import java.math.BigInteger;
 import java.util.Scanner;

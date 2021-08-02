@@ -1,4 +1,4 @@
-package Task;
+package Task.Task;
 import java.util.Scanner;
 
 public class Rearrange{
